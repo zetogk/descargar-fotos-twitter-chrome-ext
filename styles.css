@@ -1,0 +1,51 @@
+#div-zl-descargar-fotos-twitter{
+	background:#0077EE;
+	height:120px;
+	left:0;
+	padding:1em;
+	position:fixed;
+	bottom:0;
+	width:100%;
+	z-index:10000 !important;
+}
+
+#div-contenedor-maximizar-zl{
+	background:#0077EE;
+	bottom:0;
+	display:none;
+	left:0;
+	min-width:200px;
+	padding:1em;
+	position:fixed;
+	z-index:10000 !important;
+}
+
+#div-zl-descargar-fotos-twitter h3{
+	font-size:1.2em;
+	font-weight: 700;
+	margin-bottom:10px;
+	color:white;
+}
+
+#contenedor-imgs{
+	margin-top:10px;
+}
+
+.btn-zl{
+	border:1px solid white;
+	border-radius:5px;
+	color:white;
+	cursor:pointer;
+	font-size:1em;
+	padding:0.3em;
+}
+
+.btn-zl:hover{
+	color:white;
+	text-decoration: none;
+}
+
+.img-zl{
+	display: inline-block;
+	vertical-align: top;
+}
