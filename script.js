@@ -1,6 +1,3 @@
-$(document).on('ready', function(){
-});
-
 $('#btn-cargar-imgs').on('click', function(){
 	htmlImgs=[];
 	//var resultSelection = $('.AdaptiveMedia-singlePhoto img, .AdaptiveMedia-threeQuartersWidthPhoto img, .AdaptiveMedia-thirdHeightPhoto img');
