@@ -1,6 +1,6 @@
 #div-zl-descargar-fotos-twitter{
 	background:#0077EE;
-	height:120px;
+	height:150px;
 	left:0;
 	padding:1em;
 	position:fixed;
@@ -28,7 +28,10 @@
 }
 
 #contenedor-imgs{
-	margin-top:10px;
+	height: 110px;
+	margin:10px auto;
+	overflow-y: scroll;
+	width:96%;
 }
 
 .btn-zl{
